@@ -10,7 +10,5 @@ assignees: ''
 ## What do you do?
 
 ## TODO
-```[tasklist]
-### Tasks
 - [ ] TODO
-```
+
